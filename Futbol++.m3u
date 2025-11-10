@@ -1,107 +1,83 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://catcast/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,http://iptvx.one/epg/epg.xml.gz"
 
-
-#EXTINF:-1 group-title="Матч",Матч HD22
+#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
 http://178.217.72.72/Match_HD/index.m3u8
-
-#EXTINF:-1 group-title="Матч",Матч! Арена HD
-http://178.217.72.72/Match_Arena_HD/index.m3u8
-
-#EXTINF:-1 group-title="Матч",Матч! Игра HD
-http://178.217.72.72/Match_Igra_HD/index.m3u8
 
 #EXTINF:0 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
 http://54.38.180.159/207/video.m3u8?token=A3b61a999e
-#EXTINF:-1 group-title="Матч",Матч ТВ
-http://iptv46.mcx-ix.ru:8077/match/index.m3u8
-#EXTINF:-1 group-title="Матч",Матч ТВ HD
-http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
-#EXTINF:-1 group-title="Матч️",Матч ТВ HD
+
+#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
-#EXTINF:-1 group-title="Матч",Матч! Премьер
-http://iptv46.mcx-ix.ru:8077/nash-football/index.m3u8
-#EXTINF:-1 group-title="Матч",Матч! Премьер HD
-http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="Матч" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ HD
+http://195.191.208.11:8087/udp/238.2.49.141:1234
 
-#EXTINF:-1 group-title="Матч",Матч! Премьер HD
-http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
 #EXTINF:0 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
 http://54.38.180.159/208/video.m3u8?token=A3b61a999e
-#EXTINF:-1 group-title="Матч",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
+http://lb.wisp.cat/lb0/MATCH_PREMIER/mpegts?token=nPfO4rRaax
+#EXTINF:-1 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
+http://46.8.46.14/premier/index.m3u8
+#EXTINF:-1 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
+http://91.207.115.228:5000/c105
+#EXTINF:-1 group-title="Матч" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="7",Матч! Премьер HD
+http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Матч",Матч! Футбол 1
-http://193.25.8.59:8000/fut
-#EXTINF:-1 group-title="Матч",Матч! Футбол 1
-http://192.162.64.99:5000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Матч",Матч! футбол 1
-http://tv.ttk.mx:9108
-#EXTINF:-1 group-title="Матч",Матч! Футбол 1
-http://178.212.71.253:8000/play/58/index.m3u8
-#EXTINF:-1 group-title="Матч",МАТЧ! Футбол 1
-http://194.143.148.28:8080/MatchFutbol1/mpegts
 
 #EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
 http://54.38.180.159/202/video.m3u8?token=A3b61a999e
-#EXTINF:-1 group-title="Матч",Матч! Футбол 1 HD
-http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
-#EXTINF:-1 group-title="Матч",Матч! Футбол 1 HD
-http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
-#EXTINF:-1 group-title="Матч",МАТЧ! ФУТБОЛ 1 HD
+#EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
 http://tv.ttk.mx:9114
-#EXTINF:-1 group-title="Матч🏆",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 group-title="Матч",Матч! Футбол 1 HD
+#EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-
-#EXTINF:-1 group-title="Матч",Матч! Футбол 2
-http://193.25.8.59:8000/fut
-#EXTINF:-1 group-title="Матч",Матч! Футбол 2
-http://192.162.64.99:5000/play/a02z/index.m3u8
+#EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
+http://195.191.208.11:8087/udp/238.2.49.4:1234
+#EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
+http://91.207.115.228:5000/c114
+#EXTINF:0 group-title="Матч" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
+http://188.190.222.53/Match_Futbol_1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
 http://54.38.180.159/203/video.m3u8?token=A3b61a999e
-#EXTINF:-1 group-title="Матч",Матч! Футбол 2 HD
+#EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
 http://178.217.72.72/Match_Futbol_2_HD/index.m3u8
-#EXTINF:-1 group-title="Матч",Матч! Футбол 2 HD
-http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
-#EXTINF:-1 group-title="Матч",МАТЧ! ФУТБОЛ 2 HD
-http://tv.ttk.mx:9111
-#EXTINF:-1 group-title="Матч",Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 group-title="Матч",Матч! Футбол 2 HD
+#EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-
-#EXTINF:-1 group-title="Матч",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
-#EXTINF:-1 group-title="Матч",Матч! Футбол 3
-http://192.162.64.99:5000/play/a030/index.m3u8
-#EXTINF:-1 group-title="Матч",Матч! Футбол 3
-http://tv.ttk.mx:9112
+#EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
+http://195.191.208.11:8087/udp/238.2.49.15:1234
+#EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
+http://91.207.115.228:5000/c115
+#EXTINF:0 group-title="Матч" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
+http://188.190.222.53/Match_Futbol_2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
 http://54.38.180.159/204/video.m3u8?token=A3b61a999e
-#EXTINF:-1 group-title="Матч",Матч! Футбол 3 HD
-http://178.217.72.72/Match_Futbol_1_HD/index.m3u8
-#EXTINF:-1 group-title="Матч",Матч! Футбол 3 HD
-http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
-#EXTINF:-1 group-title="Матч",МАТЧ! ФУТБОЛ 3 HD
+#EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
 http://tv.ttk.mx:9116
-#EXTINF:-1 group-title="Матч",Матч! Футбол 3 HD
-http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 group-title="Матч",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
+http://195.191.208.11:8087/udp/238.2.49.73:1234
+#EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
+http://91.207.115.228:5000/c116
+#EXTINF:-1 group-title="Матч" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
+http://188.190.222.53/Match_Futbol_3/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:0 group-title="Окко" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт
+
+#EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="0",Окко Спорт HD
 http://54.38.180.159/236/video.m3u8?token=A3b61a999e
+#EXTINF:-1 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="0",Окко Спорт HD
+http://50.7.28.226/9183/index.m3u8
 #EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="0",Окко Спорт HD
 http://54.38.180.159/238/video.m3u8?token=A3b61a999e
-#EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Спорт HD
+#EXTINF:0 group-title="Окко" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="3",Окко Спорт HD
 http://de.online24.pm/play/7337/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
 http://54.38.180.159/232/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="Окко" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
+http://50.7.28.226/9170/index.m3u8
+
 
 
 #EXTINF:0 group-title="Setanta" tvg-id="6860" tvg-logo="https://ip-tv.dev/epg/icon/setanta-sports.png" tvg-rec="0",Setanta Sports Premium HD
@@ -142,80 +118,163 @@ http://54.38.180.159/237/video.m3u8?token=A3b61a999e
 
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 1
 http://de.online24.pm/play/1704/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 1
+http://srvru.play-x.ru/channel/4590e823/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 2
 http://de.online24.pm/play/1705/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 2
+http://srvru.play-x.ru/channel/4590e824/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 3
 http://de.online24.pm/play/1706/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 3
+http://srvru.play-x.ru/channel/4590e825/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 4
 http://de.online24.pm/play/1707/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 4
+http://srvru.play-x.ru/channel/4590e826/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 5
 http://de.online24.pm/play/1708/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 5
+http://srvru.play-x.ru/channel/4590e827/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 6
 http://de.online24.pm/play/1709/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 6
+http://srvru.play-x.ru/channel/4590e828/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 7
 http://de.online24.pm/play/1710/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 7
+http://srvru.play-x.ru/channel/4590e829/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 8
 http://de.online24.pm/play/1711/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 8
+http://srvru.play-x.ru/channel/4590e82a/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 9
 http://de.online24.pm/play/1712/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 9
+http://srvru.play-x.ru/channel/4590e82b/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 10
 http://de.online24.pm/play/1713/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 10
+http://srvru.play-x.ru/channel/6c8c1c6d/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 11
 http://de.online24.pm/play/1714/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 11
+http://srvru.play-x.ru/channel/6c8c1c6e/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 12
 http://de.online24.pm/play/1715/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 12
+http://srvru.play-x.ru/channel/6c8c1c6f/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 13
+http://de.online24.pm/play/1716/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 13
+http://srvru.play-x.ru/channel/6c8c1c70/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+
 
 
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 1
 http://de.online24.pm/play/5009/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 1
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20099/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 2
 http://de.online24.pm/play/5010/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 2
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20103/index.m3u8 
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 3
 http://de.online24.pm/play/5011/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 3
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20104/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 4
 http://de.online24.pm/play/5012/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 4
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20105/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 5
 http://de.online24.pm/play/5014/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 5
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20106/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 6
 http://de.online24.pm/play/5013/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 6
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20107/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 7
 http://de.online24.pm/play/5015/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 7
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20108/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 8
 http://de.online24.pm/play/5016/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 8
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20109/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 9
 http://de.online24.pm/play/5017/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 9
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20110/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 10
 http://de.online24.pm/play/5018/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 10
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20100/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 11
 http://de.online24.pm/play/5019/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 11
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20101/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 12
 http://de.online24.pm/play/5020/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 12
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20102/index.m3u8
+
+
+
+
 
 
 #EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 1
-http://de.online24.pm/play/5021/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 2
 http://de.online24.pm/play/5022/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 3
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 1
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31675/index.m3u8
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 2
 http://de.online24.pm/play/5023/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 4
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 2
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31676/index.m3u8
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 3
 http://de.online24.pm/play/5024/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 5
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 3
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31677/index.m3u8
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 4
 http://de.online24.pm/play/5025/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 6
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 4
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31678/index.m3u8
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 5
 http://de.online24.pm/play/5026/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 5
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31679/index.m3u8
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 6
+http://de.online24.pm/play/5027/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Vital Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" tvg-rec="0",Vital Sport 6
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31680/index.m3u8
+
+
+
 
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
-http://de.online24.pm/play/5027/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
 http://de.online24.pm/play/5028/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/20091/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
 http://de.online24.pm/play/5029/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/20092/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://de.online24.pm/play/5030/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/20093/index.m3u8
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 4
-http://de.online24.pm/play/5030/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 5
-http://de.online24.pm/play/5030/0E5BF0B5A9755BD/video.m3u8
 http://de.online24.pm/play/5031/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 4
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/31682/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 5
+http://de.online24.pm/play/5032/0E5BF0B5A9755BD/video.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Pimple",Pimple 1 
 http://127.0.0.1:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
@@ -245,14 +304,16 @@ http://de.online24.pm/play/5036/0E5BF0B5A9755BD/video.m3u8
 http://54.38.180.159/240/video.m3u8?token=A3b61a999e
 
 
-#EXTINF:-1 group-title="Футбол",Футбол HD
-http://iptv46.mcx-ix.ru:8077/football/index.m3u8
-#EXTINF:-1 group-title="Футбол",Телеканал Футбол
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 group-title="Футбол",Футбол HD
+
+
+
+#EXTINF:-1 group-title="Разное" tvg-id="football-ru" tvg-logo="https://epg.iptvx.one/picons/football-ru.png" tvg-rec="0",Футбол HD
 http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
-#EXTINF:-1 group-title="Футбол",Футбольный HD
-http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
+
+#EXTINF:-1 group-title="Разное" tvg-id="football-ru" tvg-logo="https://epg.iptvx.one/picons/football-ru.png" tvg-rec="0",Футбол HD
+http://91.207.115.228:5000/c102
+
+
 
 
 
