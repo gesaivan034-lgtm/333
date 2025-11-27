@@ -108,12 +108,28 @@ http://de.online24.pm/play/942/0E5BF0B5A9755BD/video.m3u8
 
 #EXTINF:0 group-title="Megogo" tvg-id="9395" tvg-logo="http://epg.one/img/9395.png" tvg-rec="0",Megogo Футбол 1 HD
 http://54.38.180.159/233/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="Megogo" tvg-id="9395" tvg-logo="http://epg.one/img/9395.png" tvg-rec="0",Megogo Футбол 1 HD
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31483/index.m3u8
+#EXTINF:0 group-title="Megogo" tvg-id="9395" tvg-logo="http://epg.one/img/9395.png" tvg-rec="0",Megogo Футбол 1 HD
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31483/index.m3u
 #EXTINF:0 group-title="Megogo" tvg-id="9394" tvg-logo="http://epg.one/img/9394.png" tvg-rec="0",Megogo Футбол 2 HD
 http://54.38.180.159/234/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="Megogo" tvg-id="9394" tvg-logo="http://epg.one/img/9394.png" tvg-rec="0",Megogo Футбол 2 HD
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31505/index.m3u8
+#EXTINF:0 group-title="Megogo" tvg-id="9394" tvg-logo="http://epg.one/img/9394.png" tvg-rec="0",Megogo Футбол 2 HD
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31505/index.m3u
 #EXTINF:0 group-title="Megogo" tvg-id="9393" tvg-logo="http://epg.one/img/9393.png" tvg-rec="0",Megogo Футбол 3 HD
 http://54.38.180.159/235/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="Megogo" tvg-id="9393" tvg-logo="http://epg.one/img/9393.png" tvg-rec="0",Megogo Футбол 3 HD
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31504/index.m3u8
+#EXTINF:0 group-title="Megogo" tvg-id="9393" tvg-logo="http://epg.one/img/9393.png" tvg-rec="0",Megogo Футбол 3 HD
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31504/index.m3u
+#EXTINF:0 group-title="Megogo" tvg-id="9393" tvg-logo="https://epg.iptvx.one/picons/megogo-football-4.png" tvg-rec="0",Megogo Футбол 4 HD
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31613/index.m3u
 #EXTINF:0 group-title="Megogo" tvg-id="9648" tvg-logo="http://epg.one/img/9648.png" tvg-rec="0",Megogo Спорт HD
 http://54.38.180.159/237/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="Megogo" tvg-id="9648" tvg-logo="http://epg.one/img/9648.png" tvg-rec="0",Megogo Спорт HD
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31612/index.m3u
 
 
 #EXTINF:0 group-title="Football Live" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" tvg-rec="0",Football Live 1
@@ -174,51 +190,149 @@ http://srvru.play-x.ru/channel/6c8c1c70/index.m3u8?q=7170e086faf29a20f6b11698846
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 1
 http://de.online24.pm/play/5009/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 1
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20099/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 1
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20099/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 1
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20099/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 1
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20099/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 1
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20099/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 2
 http://de.online24.pm/play/5010/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 2
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20103/index.m3u8 
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 2
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20103/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 2
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20103/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 2
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20103/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 2
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20103/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 2
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20103/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 3
 http://de.online24.pm/play/5011/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 3
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20104/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 3
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20104/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 3
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20104/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 3
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20104/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 3
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20104/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 4
 http://de.online24.pm/play/5012/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 4
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20105/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 4
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20105/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 4
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20105/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 4
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20105/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 4
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20105/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 5
 http://de.online24.pm/play/5014/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 5
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20106/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 5
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20106/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 5
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20106/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 5
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20106/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 5
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20106/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 6
 http://de.online24.pm/play/5013/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 6
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20107/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 6
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20107/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 6
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20107/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 6
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20107/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 6
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20107/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 7
 http://de.online24.pm/play/5015/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 7
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20108/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 7
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20108/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 7
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20108/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 7
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20108/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 7
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20108/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 8
 http://de.online24.pm/play/5016/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 8
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20109/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 8
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20109/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 8
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20109/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 8
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20109/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 8
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20109/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 9
 http://de.online24.pm/play/5017/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 9
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20110/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 9
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20110/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 9
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20110/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 9
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20110/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 9
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20110/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 10
 http://de.online24.pm/play/5018/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 10
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20100/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 10
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20100/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 10
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20100/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 10
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20100/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 10
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20100/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 11
 http://de.online24.pm/play/5019/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 11
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20101/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 11
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20101/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 11
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20101/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 11
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20101/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 11
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20101/index.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 12
 http://de.online24.pm/play/5020/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 12
 http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/20102/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 12
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20102/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 12
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20102/index.m3u
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 12
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20102/index.m3u8
+#EXTINF:0 group-title="VIP Sport" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" tvg-rec="0",VIP Sport 12
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20102/index.m3u8
 
 
 
@@ -253,26 +367,87 @@ http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31680/index.m3u8
 
 
 
+
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
-http://de.online24.pm/play/5028/0E5BF0B5A9755BD/video.m3u8
+http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31675/index.m3u8
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
-http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/20091/index.m3u8
+http://de.online24.pm/play/5022/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20091/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://e6ce69f2.kazaktelekom.com/iptv/LY9PHWZHRXA5SE/20091/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/20091/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20091/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://9udld7sa.megatv.fun/iptv/FPZT65DBZMSUCU/20091/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://bxn1m0ok.ottclub.xyz/iptv/EDK4ZVBNNRYT9Z/20091/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20091/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/20091/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 1
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20091/index.m3u8
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
 http://de.online24.pm/play/5029/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/20092/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20092/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://e6ce69f2.kazaktelekom.com/iptv/LY9PHWZHRXA5SE/20092/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/20092/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20092/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://9udld7sa.megatv.fun/iptv/FPZT65DBZMSUCU/20092/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://bxn1m0ok.ottclub.xyz/iptv/EDK4ZVBNNRYT9Z/20092/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20092/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/20092/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 2
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20092/index.m3u8
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
 http://de.online24.pm/play/5030/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/20093/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20093/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://e6ce69f2.kazaktelekom.com/iptv/LY9PHWZHRXA5SE/20093/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/20093/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/20093/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://9udld7sa.megatv.fun/iptv/FPZT65DBZMSUCU/20093/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://bxn1m0ok.ottclub.xyz/iptv/EDK4ZVBNNRYT9Z/20093/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20093/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/20093/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 3
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/20093/index.m3u8
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 4
 http://de.online24.pm/play/5031/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 4
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/31682/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 4
+http://e6ce69f2.kazaktelekom.com/iptv/LY9PHWZHRXA5SE/31682/index.m3u8
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 4
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31682/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 4
+http://9udld7sa.megatv.fun/iptv/BCYMV3R4DKK6QL/31682/index.m3u
+#EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 4
+http://9udld7sa.megatv.fun/iptv/FPZT65DBZMSUCU/31682/index.m3u
 #EXTINF:0 group-title="Fint Ga" tvg-id="9648" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" tvg-rec="0",Fint Ga 5
 http://de.online24.pm/play/5032/0E5BF0B5A9755BD/video.m3u8
-
-
 
 
 
